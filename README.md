@@ -8,3 +8,4 @@ https://zenn.dev/o_ga/books/dc6c7b055b65a3/viewer/chapter1
 実行環境
 Ubuntu 22.04
 
+ためしたけど記事の内容に沿っても動かなくて微妙、一旦放置
